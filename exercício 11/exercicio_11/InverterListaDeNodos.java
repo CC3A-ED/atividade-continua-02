@@ -4,6 +4,10 @@ package exercicio_11;
 import tools.NodePositionList;
 import tools.Position;
 
+/**
+ * @author david-ferreira
+ */
+
 public class InverterListaDeNodos {
 	public static <Type> void inverter(NodePositionList<Type> lista) {
 		Position<Type> position_ultimo_no = lista.last();

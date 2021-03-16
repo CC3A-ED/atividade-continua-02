@@ -3,6 +3,10 @@ package tools;
 
 import java.util.Iterator;
 
+/**
+ * @author david-ferreira
+ */
+
 public class NodePositionList<Type> implements PositionList<Type> {
 	protected Node<Type> header;   // Sentinela para a cabeça da lista
 	protected Node<Type> trailer;  // Sentinela para a cauda da lista

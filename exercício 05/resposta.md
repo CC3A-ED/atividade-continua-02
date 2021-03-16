@@ -2,4 +2,4 @@
    push, 12 operações top e 10 operações pop, 3 das quais geraram  
    StackEmptyExceptions, que foram capturadas e ignoradas. Qual é o tamanho corrente de S?  
      
-   R: 3
+   R: 15
