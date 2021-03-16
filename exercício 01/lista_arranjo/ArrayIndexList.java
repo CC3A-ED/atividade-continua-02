@@ -1,10 +1,6 @@
 
 package lista_arranjo;
 
-/**
- * @author david-ferreira
- */
-
 public class ArrayIndexList<Type> implements IndexList<Type> {
 	private Type arranjo[];
 	private int capacity = 16;  // ler linha 12.
